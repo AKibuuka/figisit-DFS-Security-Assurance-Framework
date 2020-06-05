@@ -2,7 +2,7 @@
 Full report --> [DFS Security Assurance Framework]
 
 # Introduction
-The provision of digital finance services (DFS) involves a complex ecosystem with the participation of different stakeholders such as banks, DFS provider, mobile network operators (MNOs), DFS platform providers, regulators, agents, merchants, payment service providers, device manufacturers, application developers, token service providers, OEMs, and clients. The interconnectedness of these system entities and reliance on several parties in the ecosystem extends the security boundaries beyond the digital financial service (DFS) provider to the customers, network providers, mobile phone manufacturer, and other third-party providers in the ecosystem 
+The provision of digital finance services (DFS) involves a complex ecosystem with the participation of different stakeholders such as banks, DFS provider, mobile network operators (MNOs), DFS platform providers, regulators, agents, merchants, payment service providers, device manufacturers, application developers, token service providers, OEMs, and clients. The interconnectedness of these system entities and reliance on several parties in the ecosystem extends the security boundaries beyond the digital financial service (DFS) provider to the customers, network providers, mobile phone manufacturer, and other third-party providers in the ecosystem
 
 In addition, DFS providers must also deal with an increasingly complex mobile ecosystem, developing applications for multiple versions of operating systems each with their specific vulnerabilities and support different types of mobile devices. In this fast-evolving dynamic environment, DFS providers face certain challenges concerning knowledge about the actual security threats and possible security controls to mitigate the risks.
 The DFS Security Assurance Framework provides an overview of the security threats and vulnerabilities facing the DFS providers (banks, non-banks providing mobile money services), mobile network operators, customers, payment system providers, merchants, and technology services/third-party service providers. Regulators including telecom authorities, banking, and payment regulators could also make use of the DFS Security Assurance Framework for establishing security baselines for the DFS providers as well.
@@ -17,7 +17,7 @@ The DFS Security Assurance Framework provides a systematic security risk managem
 The DFS Security Assurance framework consists of the following components:
 * A security risk management methodology based on ISO/IEC 27005 –Security techniques -Information security risk management (Section 7 of the report).
 * Assessment of threats and vulnerabilities to the underlying infrastructure of the mobile network operator and DFS provider, DFS applications, services, network operations and third-party providers involved in the ecosystem for DFS delivery.
-* Mitigation strategies based on the outcome of (b) above. 
+* Mitigation strategies based on the outcome of (b) above.
 
 The mitigation measures identify 117 security controls for the security threats which are outlined in Section 8 of the report.
 
@@ -40,11 +40,11 @@ The eight security dimensions that provide a sys- tematic way of encountering ne
 
 ### The following vulnerabilities  identified in the framework with an auditing guideline based on the controls.
 * [Account and Session Hijacking]
-* [Attacks against credentials] 
+* [Attacks against credentials]
 * [Attacks against systems and platforms]
 * [Code Exploitation Attacks]
 * [Data Misuse]
-* [Denial of Service Attacks] 
+* [Denial of Service Attacks]
 * [Insider Attacks]
 * [Man-in-the-middle and social engineering attacks]
 * [Compromise of DFS Infrastructure]
@@ -59,42 +59,40 @@ The eight security dimensions that provide a sys- tematic way of encountering ne
 
 [DFS Security Assurance Framework]: https://www.itu.int/en/ITU-T/extcoop/figisymposium/Documents/ITU_SIT_WG_Technical%20report%20on%20Digital%20Financial%20Services%20Security%20Assurance%20Framework_f.pdf
 
-[Account and Session Hijacking]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Account-and-Session-Hijacking.md
+[Account and Session Hijacking]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Account-and-Session-Hijacking.md
 
-[Account and Session Hijacking]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Account-and-Session-Hijacking.md
+[Account and Session Hijacking]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Account-and-Session-Hijacking.md
 
-[Attacks against systems and platforms]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Attacks-against-systems-and-platforms.md
+[Attacks against systems and platforms]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Attacks-against-systems-and-platforms.md
 
-[Attacks against credentials]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Attacks-against-credentials.md
-[Code Exploitation Attacks]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Code-Exploitation-Attacks.md
+[Attacks against credentials]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Attacks-against-credentials.md
+[Code Exploitation Attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Code-Exploitation-Attacks.md
 
-[Compromise of DFS Infrastructure]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Compromise-of-DFS-Infrastructure.md
+[Compromise of DFS Infrastructure]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Compromise-of-DFS-Infrastructure.md
 
-[Compromise of DFS Services]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Compromise-of-DFS-Services.md
+[Compromise of DFS Services]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Compromise-of-DFS-Services.md
 
-[Data Misuse]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Data-Misuse.md
+[Data Misuse]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Data-Misuse.md
 
-[Denial of Service Attacks]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Denial-of-Service-Attacks.md
+[Denial of Service Attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Denial-of-Service-Attacks.md
 
-[Insider Attacks]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Insider-Attacks.md
-
-
-[Malware]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Malware.md
-
-[Man-in-the-middle and social engineering attacks]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Man-in-the-middle-and-social-engineering-attacks.md
-
-[Rogue Devices]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Rogue-Devices.md
-
-[SIM attacks]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/SIM-attacks.md
-
-[Unauthorised Access to Mobile Devices]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Unauthorised-Access-to-Mobile-Devices.md
-
-[Unauthorized access]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Unauthorized-access.md
-
-[Unauthorized access to DFS data]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Unauthorized-access-to-DFS.md
-
-[Unintended Disclosure of Personal Information]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Unintended-Disclosure-of-Personal-Information.md
-
-[Zero-Day Attacks]: https://github.com/figisit/DFS-Security-Assurance-Framework/blob/master/Zero-Day-Attacks.md
+[Insider Attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Insider-Attacks.md
 
 
+[Malware]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Malware.md
+
+[Man-in-the-middle and social engineering attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Man-in-the-middle-and-social-engineering-attacks.md
+
+[Rogue Devices]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Rogue-Devices.md
+
+[SIM attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//SIM-attacks.md
+
+[Unauthorised Access to Mobile Devices]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Unauthorised-Access-to-Mobile-Devices.md
+
+[Unauthorized access]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Unauthorized-access.md
+
+[Unauthorized access to DFS data]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Unauthorized-access-to-DFS.md
+
+[Unintended Disclosure of Personal Information]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Unintended-Disclosure-of-Personal-Information.md
+
+[Zero-Day Attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Zero-Day-Attacks.md
