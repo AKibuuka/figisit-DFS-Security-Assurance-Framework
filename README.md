@@ -62,4 +62,3 @@ https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master/
 
 [Unintended Disclosure of Personal Information]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Unintended-Disclosure-of-Personal-Information.md
 
-[Zero-Day Attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master//Zero-Day-Attacks.md
