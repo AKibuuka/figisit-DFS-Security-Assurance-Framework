@@ -47,7 +47,7 @@ This repository contains the  security auditing guidelines based on the [DFS sec
 
 [Malware]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master/Malware.md
 
-[Man-in-the-middle and social engineering attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master/Man-in-the-middle-and-social-engineering-attacks.md
+[Man-in-the-middle and social engineering attacks]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master/Man-in-the-middle-and-social-engineering%20attacks.md
 
 [Rogue Devices]: https://github.com/figisit/figisit-DFS-Security-Assurance-Framework/blob/master/Rogue-Devices.md
 
