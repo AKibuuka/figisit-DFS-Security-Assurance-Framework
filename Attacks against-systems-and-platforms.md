@@ -16,7 +16,6 @@ We characterize these attacks as those that a remote adversary can carry out to 
 
 * **Vulnerability:** Exposure of internal network to external adversaries (SD: access control)
     * **Control 2.3:** _Use Network Address Translation to limit external exposure of DFS IP address and routing information._
-|DFS Provider
 
 #### Affected entity: DFS Provider
 **Risk:**  Account access, compromise, and denial of service 
