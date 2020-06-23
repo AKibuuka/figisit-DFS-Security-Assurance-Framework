@@ -1,4 +1,4 @@
-### Threat: Attacks against credentials	
+### Threat 2: Attacks against credentials	
 We broadly characterize these threats as those designed to steal or tamper with the credentials for users of DFS systems and mobile devices
 
 #### Affected entities: Mobile User
