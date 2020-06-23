@@ -1,5 +1,5 @@
 
-### Threat: Compromise of DFS Services
+### Threat 11: Compromise of DFS Services
 The ability of an attacker to breach a financial service without being detected.  
 
 #### Affected entity: DFS provider
