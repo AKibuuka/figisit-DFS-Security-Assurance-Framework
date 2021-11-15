@@ -1,5 +1,5 @@
 ### Threat 1: Account and Session Hijacking
-The general threat here is the ability of an attacker to take control of an account or communication session. The vulnerabilities are manifested in different ways at the DFS provider and the MNO.
+The general threat is the ability of an attacker to take control of an account or communication session. The vulnerabilities are manifested in different ways at the DFS provider and the MNO.
 #### Affected Entity: DFS Provider
 
  **Risk:** Data exposure and modification
